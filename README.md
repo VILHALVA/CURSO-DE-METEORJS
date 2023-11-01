@@ -1,7 +1,8 @@
 # CURSO DE METEORJS
 👨‍⚖️METEORJS É UM FRAMEWORK DE DESENVOLVIMENTO WEB DE CÓDIGO ABERTO QUE PERMITE A CRIAÇÃO RÁPIDA DE APLICATIVOS USANDO JAVASCRIPT. ELE OFERECE UMA PILHA COMPLETA DE TECNOLOGIAS, INCLUINDO FRONTEND, BACKEND E BANCO DE DADOS, PERMITINDO O DESENVOLVIMENTO ÁGIL E REATIVO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MeteorJS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.meteor.com/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLEtcGQaT56cipfXrtdGeuoH2YSoGW5PZ2&si=RJ7-oXxH7OyHli-s)
