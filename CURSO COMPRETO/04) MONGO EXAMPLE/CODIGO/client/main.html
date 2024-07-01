@@ -1,0 +1,30 @@
+<head>
+  <title>mongo-example</title>
+</head>
+
+<body>
+  <h1>Sales</h1>
+
+  {{ > sales }}
+</body>
+
+<template name="sales">
+    <table>
+      <tr>
+        <th>ID</th>
+        <th>qty</th>
+        <th>total</th>
+        <th>products</th>
+      </tr>
+      {{#each sales}}
+        <tr>
+          <td>{{_id}}</td>
+          <td>{{qty}}</td>
+          <td>{{total}}</td>
+          <td>{{products}}</td>
+        </tr>
+      {{/each}}
+    </table>
+
+</template>
+
